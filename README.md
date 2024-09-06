@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # frontendbase
 
 Este repositório contém a base de um projeto frontend, construído com **React JS**, **TypeScript** e utilizando **Vite** como bundler. O objetivo é fornecer uma estrutura rápida e otimizada para desenvolvimento de aplicações frontend modernas.
@@ -103,7 +102,3 @@ Este projeto está licenciado sob a licença **ISC**. Consulte o arquivo [LICENS
 - **Licença**: O projeto está licenciado sob a licença ISC, conforme o `package.json`.
 
 Esse modelo é uma base sólida para documentar o seu projeto. Se precisar de mais alguma alteração, é só avisar!
-=======
-# ProjectBaseFrontEnd
-Base de Projeto Frontend com React JS + TypeScript + Vitejs + Tailwind
->>>>>>> da96ccdf513421586180a8da9e57ba22e4edcc33
